@@ -335,3 +335,46 @@ margin-top: -8cm;
     margin-left: 36cm;
     margin-top: 10px;
 }
+.sub2{
+    width: 100%;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    height: 45vh;
+    
+}
+.sub2 h4{
+    padding-left: 200px;
+    color: #fff;
+    padding-top: 2cm;
+
+}
+.sub2 span{
+    padding-left: 20cm;
+    color: #fff;
+    padding-top: 2cm;
+}
+.para{
+    
+    height: 200px;
+    width: 900px;
+    margin-left: 198px;
+    margin-top: 50px;
+    color: #fff;
+}
+.contact h6{
+    
+    color: #fff;
+    width: 200px;
+    height: 130px;
+    margin-left: 1258px;
+    margin-bottom: 300px;
+    margin-top: -5.5cm;
+   }
+.b h6{
+
+width: 300px;
+height: 30px;
+margin-left: 600px;
+margin-top: -8cm;
+}
