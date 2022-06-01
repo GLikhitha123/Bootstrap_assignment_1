@@ -1,32 +1,33 @@
 *{
-    margin:0;
+    margin: 0;
     padding: 0;
 }
-.main content{
-    background: url("header-background.jpg");
-    background-position: cover;
-    width: 100%;
-    height: 400px;
+.main{
+    background: url(header-background.jpg)
+    background-size: cover;
+    height: 550px;
+    background-position: center;
 }
-main.h1{
+.main h1{
     position: center;
     color: green;
-    margin-left: 500px;
-    padding-top:70px;
-    font-size: 30px;
+    margin-left: 650px;
+    padding-top: 120pxpx;
+    font-size: 50px;
 }
-.mqin p{
-    position: center;
+.main p{
     color: white;
-    margin-left: 600px;
-
+    margin-left: 550px;
+    font-size: 25px;
+    font-weight: 400px;
 }
-.main h4{
-    text-align: center;
+.btnn{
     background-color: green;
+    width: 200px;
+    font-size: 25px;
     color: white;
-    margin-left: 600px;
-    width: 180px;
-    height: 50px;
-    padding-top: 10px;
+    border: none;
+    font-family: Arial;
+    margin-left: 850px;
+    height: 6vh;
 }
