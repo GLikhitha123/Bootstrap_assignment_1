@@ -2,33 +2,103 @@
     margin: 0;
     padding: 0;
 }
-.main{
-    background: url("header-background.jpg");
-    background-size: cover;
-    background-position:center;
-    height: 550px;
-    width: 100%;
-}
-.main h1{
-    position: center;
-    color: green;
-    margin-left: 650px;
-    padding-top: 120pxpx;
-    font-size: 50px;
-}
-.main p{
-    color: white;
-    margin-left: 550px;
-    font-size: 25px;
-    font-weight: 400px;
-}
-.btnn{
+.navbar{
     background-color: green;
-    width: 200px;
-    font-size: 25px;
-    color: white;
-    border: none;
-    font-family: Arial;
-    margin-left: 850px;
-    height: 6vh;
 }
+.main{
+    background: url(header-background.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+}
+.content .par{
+    position: center;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    color: #fff;
+    font-size: 20px;
+    margin-right: 300px;
+}
+.content h3{
+    font-size: 38px;
+    color: green;
+    padding-left: 500px;
+    padding-top: 150px;
+}
+.content .btnn{
+    width: 200px;
+    height: 50px;
+    background: green;
+    margin-left: 17cm;
+    color: #fff;
+    border: none;
+    font-size: 30px;
+}
+.sub{
+    width: 100%;
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+    padding-top: 20px;
+}
+ .sub .pic1{
+    background: url(column-1.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 300px;
+    margin-left: 130px;
+    margin-top: 20px;
+    border: 2px solid;
+}
+
+.pic2{
+    background: url(column-2.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.content{
+    border: 2px solid;
+    height: 80vh;
+}
+sub.h1{
+    padding-right: 500px;
+}
+.sub .par1{
+    position: center;
+    font-family: Arial;
+    letter-spacing: 1.0px;
+    line-height: 15px;
+    color: black;
+    font-size: 10px;
+    margin-top: 30px;
+    margin-left: 130px;
+    border:2px solid black;
+    width: 300px; 
+   
+
+}
+.sub .par2{
+   
+    position: center;
+    font-family: Arial;
+    letter-spacing: 1.0px;
+    line-height: 15px;
+    color: black;
+    font-size: 10px;
+    margin-top: -130px;
+    margin-left: 500px;
+    border:2px solid black;
+    width: 300px; 
+    
+   
+}
+
+
+
