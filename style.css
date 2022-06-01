@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.main{
+    background: url(header-background.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.content{
+    width: 1500px;
+    height: 17cms;
+    margin: 35px;
+    color: #fff;
+    position: center;
+    margin-left: 700px;
+    margin-top: -600px;
+    margin-right: 70px;
+
+}
+.content par{
+    padding-right: 300px;
+    padding-bottom: 50px;
+    font-family: Arial;
+    letter-spacing: 1.6px;
+    line-height: 30px;
+    margin-right: 10px;
+
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    padding-left: 5px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.content .btnn{
+    width: 200px;
+    height: 40px;
+    border: 2px solid #ff7200;
+    border-radius: 20px;
+    background: black;
+    margin-top: 20px;
+}
